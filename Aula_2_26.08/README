@@ -1,0 +1,4 @@
+Quando iniciado o projeto através do site wokwi.com, ele irá automaticamente exibir a temperatura captada pelo DHT22 através da função Println.
+Em seguida, a cada 1 segundo (delay de 1000 milissegundos), o programa irá captar o estado do potenciometro e do DHT22 e exibir novamente.
+É possível alterar a temperatura do DHT22 clicando nele e mudando manualmente. Já o potenciometro, pode ser alterado girando o círculo. Ele varia os estados entre "NORMAL", "ATENÇÃO" e "ALARME".
+Já o pushbutton tem a função de, quando pressionado, deve acender o led vermelho que está conectado ao arduino.
