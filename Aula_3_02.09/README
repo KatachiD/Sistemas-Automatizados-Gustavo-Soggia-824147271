@@ -1,0 +1,12 @@
+  Procedimento de Teste
+. Para iniciar, pressione o botão de play (Triangulo verde)
+. Ao segurar o botão, após o tempo de delay, o programa detectará se o botão está pressionado ou não. Caso potiviso, o led irá ligar e o status muda de 0 para 1
+. Ao rotacionar o cursor do potenciometro, os valores brutos, temperatura e de porcentagem irão mudar.
+. Ao alterar a temperatura, clicando no sensor DHT22, o programa irá exibir a temperatura escolhida
+
+  Limites
+. O potenciometro só recebe valores entre 0 e 1023
+. O DHT22 só detecta temperaturas entre -40 e 80°C
+
+  Conclusão
+O arduíno se demonstrou como um ótimo elemento central de controle, podendo adquirir dados, processa-los e decidir sua atuação.
